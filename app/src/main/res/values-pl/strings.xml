@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aktualizator QTH RLCallsign</string>
+    <string name="api_error_code_empty_coordinates">Puste współrzędne!</string>
+    <string name="api_error_code_emptyparams">Puste lub brakujące parametry!</string>
+    <string name="api_error_code_failure">Niepowodzenie!</string>
+    <string name="api_error_code_nocallsigninfo">Brakujące dane!</string>
+    <string name="api_error_code_rlauth_emptyparams">RLAuth - Puste lub brakujące parametry!</string>
+    <string name="api_error_code_rlauth_failure">RLAuth - Niepowodzenie!</string>
+    <string name="api_error_code_rlauth_token">RLAuth - Błąd generacji tokenu!</string>
+    <string name="api_error_code_rlauth_unauthorized">RLAuth - Brak autoryzacji!</string>
+    <string name="api_error_code_rlauthtokenrequired">Wymagany token RLAuth!</string>
+    <string name="api_error_code_token">Błąd generacji tokenu!</string>
+    <string name="api_error_code_unauthorized">Brak autoryzacji!</string>
+    <string name="callsign_hint">Znak wywoławczy</string>
+    <string name="callsign_label">Znak wywoławczy:</string>
+    <string name="current_qth_hint">Obecne QTH</string>
+    <string name="current_qth_locator_hint">Obecny QTH lokator</string>
+    <string name="from_address_btn_label">Lokator z adresu (RLQTH)</string>
+    <string name="from_locator_btn_label">Adres z lokatora (RLQTH)</string>
+    <string name="geolocate_btn_label">Geolokalizacja</string>
+    <string name="login_btn_label">Zaloguj się przez RLAuth</string>
+    <string name="logout_btn_label">Wyloguj się</string>
+    <string name="password_hint">Hasło</string>
+    <string name="please_wait">Proszę czekać...</string>
+    <string name="toast_error_connection">Błąd połączenia!</string>
+    <string name="toast_error_response">Wystąpił błąd:</string>
+    <string name="toast_exception">Wystąpił wyjątek!</string>
+    <string name="toast_geolocation_successful">Geolokalizacja pomyślna!</string>
+    <string name="toast_logged_in">Zalogowano pomyślnie!</string>
+    <string name="toast_logged_out">Wylogowano pomyślnie!</string>
+    <string name="toast_query_successful">Zapytanie pomyślne!</string>
+    <string name="toast_updated">Dane zaktualizowane pomyślnie!</string>
+    <string name="update_btn_label">Aktualizuj</string>
+</resources>

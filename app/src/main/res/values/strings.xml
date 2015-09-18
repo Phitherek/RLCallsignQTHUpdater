@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">RLCallsign QTH Updater</string>
+    <string name="callsign_label">Callsign:</string>
+    <string name="callsign_hint">Callsign</string>
+    <string name="password_hint">Password</string>
+    <string name="current_qth_hint">Current QTH</string>
+    <string name="current_qth_locator_hint">Current QTH locator</string>
+    <string name="login_btn_label">Login via RLAuth</string>
+    <string name="logout_btn_label">Logout</string>
+    <string name="geolocate_btn_label">Geolocate</string>
+    <string name="from_locator_btn_label">Address from locator (RLQTH)</string>
+    <string name="from_address_btn_label">Locator from address (RLQTH)</string>
+    <string name="update_btn_label">Update</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="preference_file_key" translatable="false">me.phitherek.rlcallsignqthupdater.PREFERENCE_FILE_KEY</string>
+    <string name="shared_preferences_current_token_key" translatable="false">current_token</string>
+    <string name="toast_error_connection">Connection error!</string>
+    <string name="toast_error_response">Error occurred: </string>
+    <string name="api_error_code_unauthorized">Unauthorized!</string>
+    <string name="api_error_code_emptyparams">Empty or missing parameters!</string>
+    <string name="api_error_code_failure">Failure!</string>
+    <string name="api_error_code_token">Token generation failure!</string>
+    <string name="api_error_code_rlauthtokenrequired">RLAuth token required!</string>
+    <string name="api_error_code_nocallsigninfo">Missing data!</string>
+    <string name="api_error_code_rlauth_unauthorized">RLAuth - Unauthorized!</string>
+    <string name="api_error_code_rlauth_emptyparams">RLAuth - Empty or missing parameters!</string>
+    <string name="api_error_code_rlauth_failure">RLAuth - Failure!</string>
+    <string name="api_error_code_rlauth_token">RLAuth - Token generation failure!</string>
+    <string name="api_error_code_empty_coordinates">Empty coordinates!</string>
+    <string name="toast_exception">Exception occurred!</string>
+    <string name="toast_logged_in">Logged in successfully!</string>
+    <string name="toast_logged_out">Logged out successfully!</string>
+    <string name="toast_updated">Data updated successfully!</string>
+    <string name="toast_query_successful">Query successful!</string>
+    <string name="toast_geolocation_successful">Geolocation successful!</string>
+</resources>
